@@ -1,134 +1,222 @@
 [
  {
-   "room_temperature": 20
+   "room_temperature": 21,
+   "light_intensity": 506,
+   "humidity": 55
  },
  {
-   "room_temperature": 18
+   "room_temperature": 21,
+   "light_intensity": 497,
+   "humidity": 53
  },
  {
-   "room_temperature": 19
+   "room_temperature": 22,
+   "light_intensity": 493,
+   "humidity": 48
  },
  {
-   "room_temperature": 20
+   "room_temperature": 20,
+   "light_intensity": 504,
+   "humidity": 49
  },
  {
-   "room_temperature": 22
+   "room_temperature": 20,
+   "light_intensity": 506,
+   "humidity": 48
  },
  {
-   "room_temperature": 20
+   "room_temperature": 19,
+   "light_intensity": 500,
+   "humidity": 53
  },
  {
-   "room_temperature": 18
+   "room_temperature": 19,
+   "light_intensity": 500,
+   "humidity": 48
  },
  {
-   "room_temperature": 18
+   "room_temperature": 20,
+   "light_intensity": 506,
+   "humidity": 46
  },
  {
-   "room_temperature": 23
+   "room_temperature": 21,
+   "light_intensity": 506,
+   "humidity": 54
  },
  {
-   "room_temperature": 19
+   "room_temperature": 22,
+   "light_intensity": 509,
+   "humidity": 50
  },
  {
-   "room_temperature": 21
+   "room_temperature": 21,
+   "light_intensity": 499,
+   "humidity": 55
  },
  {
-   "room_temperature": 21
+   "room_temperature": 21,
+   "light_intensity": 501,
+   "humidity": 51
  },
  {
-   "room_temperature": 22
+   "room_temperature": 22,
+   "light_intensity": 492,
+   "humidity": 45
  },
  {
-   "room_temperature": 23
+   "room_temperature": 20,
+   "light_intensity": 499,
+   "humidity": 53
  },
  {
-   "room_temperature": 18
+   "room_temperature": 19,
+   "light_intensity": 505,
+   "humidity": 51
  },
  {
-   "room_temperature": 19
+   "room_temperature": 22,
+   "light_intensity": 493,
+   "humidity": 50
  },
  {
-   "room_temperature": 20
+   "room_temperature": 19,
+   "light_intensity": 498,
+   "humidity": 53
  },
  {
-   "room_temperature": 21
+   "room_temperature": 22,
+   "light_intensity": 500,
+   "humidity": 50
  },
  {
-   "room_temperature": 20
+   "room_temperature": 21,
+   "light_intensity": 503,
+   "humidity": 51
  },
  {
-   "room_temperature": 18
+   "room_temperature": 21,
+   "light_intensity": 509,
+   "humidity": 48
  },
  {
-   "room_temperature": 19
+   "room_temperature": 20,
+   "light_intensity": 499,
+   "humidity": 50
  },
  {
-   "room_temperature": 21
+   "room_temperature": 21,
+   "light_intensity": 501,
+   "humidity": 45
  },
  {
-   "room_temperature": 20
+   "room_temperature": 20,
+   "light_intensity": 497,
+   "humidity": 47
  },
  {
-   "room_temperature": 19
+   "room_temperature": 19,
+   "light_intensity": 509,
+   "humidity": 47
  },
  {
-   "room_temperature": 19
+   "room_temperature": 21,
+   "light_intensity": 490,
+   "humidity": 48
  },
  {
-   "room_temperature": 19
+   "room_temperature": 20,
+   "light_intensity": 498,
+   "humidity": 45
  },
  {
-   "room_temperature": 18
+   "room_temperature": 21,
+   "light_intensity": 496,
+   "humidity": 45
  },
  {
-   "room_temperature": 22
+   "room_temperature": 21,
+   "light_intensity": 490,
+   "humidity": 46
  },
  {
-   "room_temperature": 20
+   "room_temperature": 20,
+   "light_intensity": 496,
+   "humidity": 54
  },
  {
-   "room_temperature": 18
+   "room_temperature": 20,
+   "light_intensity": 502,
+   "humidity": 45
  },
  {
-   "room_temperature": 20
+   "room_temperature": 20,
+   "light_intensity": 499,
+   "humidity": 49
  },
  {
-   "room_temperature": 20
+   "room_temperature": 22,
+   "light_intensity": 504,
+   "humidity": 52
  },
  {
-   "room_temperature": 23
+   "room_temperature": 22,
+   "light_intensity": 490,
+   "humidity": 54
  },
  {
-   "room_temperature": 22
+   "room_temperature": 19,
+   "light_intensity": 503,
+   "humidity": 46
  },
  {
-   "room_temperature": 23
+   "room_temperature": 19,
+   "light_intensity": 501,
+   "humidity": 49
  },
  {
-   "room_temperature": 18
+   "room_temperature": 22,
+   "light_intensity": 504,
+   "humidity": 52
  },
  {
-   "room_temperature": 20
+   "room_temperature": 20,
+   "light_intensity": 492,
+   "humidity": 45
  },
  {
-   "room_temperature": 21
+   "room_temperature": 19,
+   "light_intensity": 507,
+   "humidity": 55
  },
  {
-   "room_temperature": 18
+   "room_temperature": 22,
+   "light_intensity": 502,
+   "humidity": 54
  },
  {
-   "room_temperature": 27
+   "room_temperature": 22,
+   "light_intensity": 508,
+   "humidity": 53
  },
  {
-   "room_temperature": 16
+   "room_temperature": 22,
+   "light_intensity": 497,
+   "humidity": 50
  },
  {
-   "room_temperature": 29
+   "room_temperature": 22,
+   "light_intensity": 491,
+   "humidity": 45
  },
  {
-   "room_temperature": 22
+   "room_temperature": 21,
+   "light_intensity": 496,
+   "humidity": 50
  },
  {
-   "room_temperature": 20
+   "room_temperature": 22,
+   "light_intensity": 509,
+   "humidity": 48
  }
 ]
