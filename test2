@@ -1,4 +1,4 @@
-[
+{
  "data": [{
    "room_temperature": 20,
    "light_intensity": 511,
@@ -220,4 +220,4 @@
    "humidity": 47
  }],
  "rating": 9
-]
+}
