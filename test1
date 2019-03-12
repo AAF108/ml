@@ -218,5 +218,8 @@
    "room_temperature": 22,
    "light_intensity": 509,
    "humidity": 48
+ },
+ {
+   "rating": 7
  }
 ]
