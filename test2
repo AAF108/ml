@@ -1,4 +1,5 @@
 [
+ [
   {
     "room_temperature": 20,
     "light_intensity": 511,
@@ -223,3 +224,4 @@
  {
  "rating": 9
  }
+]
