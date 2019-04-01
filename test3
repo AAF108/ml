@@ -1,3 +1,4 @@
+{
 "data": [
  {
    "room_temperature": 20,
@@ -5,3 +6,4 @@
    "humidity": 50
  }
 ]
+}
