@@ -1,0 +1,27 @@
+[
+ {
+   "room_temperature": 21,
+   "light_intensity": 506,
+   "humidity": 55
+ },
+ {
+   "room_temperature": 21,
+   "light_intensity": 497,
+   "humidity": 53
+ },
+ {
+   "room_temperature": 22,
+   "light_intensity": 493,
+   "humidity": 48
+ },
+ {
+   "room_temperature": 20,
+   "light_intensity": 504,
+   "humidity": 49
+ },
+ {
+   "room_temperature": 20,
+   "light_intensity": 506,
+   "humidity": 48
+ }
+ ]
